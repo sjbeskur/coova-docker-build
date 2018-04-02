@@ -8,6 +8,6 @@ To get started after cloning git repository:
 
   `./make.sh`
 
-Upon successfull completion this build will output a coova-chilli*.deb package to the target/ directory.
+Upon successful completion this build will output a coova-chilli*.deb package to the target/ directory.
 
 See Dockerfile for full details.
